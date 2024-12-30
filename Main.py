@@ -1,6 +1,7 @@
 import os
 print('Bubble search ')
 
+print('paf')
 registered = {
     'google': 'Google\nhttps://www.google.com\n\nBing\nhttps://www.bing.com',
     'chatgpt': 'ChatGPT\nhttps://www.chatgpt.com\n\nGemini\nhttps://gemini.google.com\n\nCopilot\nhttps://www.microsoftcopilot.com',
