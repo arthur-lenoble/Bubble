@@ -19,7 +19,8 @@ registered = {
     'trad':'Google Traduction\nhttps://translate.google.fr\n\nDeepL\nhttps://www.deepl.com',
     'trinket':'Trinket\n(strongly recommended)\nhttps://www.trinket.io',
     'moteur de recherche':'Google (https://www.google.com)et Bing (https://www.bing.com)sont les plus connus.\n Voici quelques alternatives :\n\nDuckDuckGo\nhttps://www.duckduckgo.com\n\nEcosia\nhttps://www.ecosia.org\nBubble Search reste le plus sur car il n\'interagit pas avec le web.',
-    'apprendre à coder':'Je te conseille Codegym, il te permet d\'apprendre quasiment tous les langages en t\'amusant. \nhttps://www.codegym.cc'
+    'apprendre à coder':'Je te conseille Codegym, il te permet d\'apprendre Java en t\'amusant. \nhttps://www.codegym.cc',
+    'coder en ligne gratuit':'Trinket\nhttps://www.trinket.io\n\nCodeSandbox\nhttps://www.codesandbox.io'
 }
 def dictSearch(entree) :
   for key in registered :
