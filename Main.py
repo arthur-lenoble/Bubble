@@ -20,7 +20,8 @@ registered = {
     'trinket':'Trinket\n(strongly recommended)\nhttps://www.trinket.io',
     'moteur de recherche':'Google (https://www.google.com)et Bing (https://www.bing.com)sont les plus connus.\n Voici quelques alternatives :\n\nDuckDuckGo\nhttps://www.duckduckgo.com\n\nEcosia\nhttps://www.ecosia.org\nBubble Search reste le plus sur car il n\'interagit pas avec le web.',
     'apprendre à coder':'Je te conseille Codegym, il te permet d\'apprendre Java en t\'amusant. \nhttps://www.codegym.cc',
-    'coder en ligne gratuit':'Trinket\nhttps://www.trinket.io\n\nCodeSandbox\nhttps://www.codesandbox.io'
+    'coder en ligne gratuit':'Trinket\nhttps://www.trinket.io\n\nCodeSandbox\nhttps://www.codesandbox.io',
+    'créer un site web':'Google sites\nhttps://sites.google.com/\n\nCanva\nhttps://www.canva.com'
 }
 def dictSearch(entree) :
   for key in registered :
